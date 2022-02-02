@@ -1,5 +1,5 @@
 # HelloWord
-Repositório criado durante as aulas do curso de git e github do Prof. Guanabara (Curso em Vídeo)
+Repositório criado durante as aulas do curso de git e github do Prof. Guanabara (Curso em Vídeo) 😄 💛
 
 ## Anotações sobre Markdown
 ***
@@ -17,6 +17,12 @@ _Exemplo_
 * Riscado: colocar entre ~~ ~~
 
 ~~Exemplo~~
+
+* Títulos: #Para títulos de nível 1, ##Para títulos de nível 2 e ###Para nível 3
+
+# Exemplo 1
+## Exemplo 2
+### Exemplo 3
 
 * Para __*misturar*__ configurações basta usar ambos os sinais de uma vez
 
