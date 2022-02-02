@@ -43,6 +43,13 @@ Lista to-do: os quadradinhos são representados por - [ ]
 - [ ] Ler anotações de Markdown
 - [ ] Colocar em prática
 - [x] Para marcar como feito basta por um x dentro, no código
+***
+### Mídia
 
+Para adicionar arquivos basta arrastá-los até aqui
 
+![hermionegif](https://user-images.githubusercontent.com/63838200/152192280-9abe1d3c-5526-4102-b33b-bf3e3a861063.gif)
 
+Para adicionar links basta escrever o texto que será clicável entre [] e a URL em si entre () logo em seguida
+
+[Conheça meus outros repositórios!](https://github.com/StheCabral)
