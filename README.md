@@ -1,7 +1,6 @@
-# HelloWord
+# Markdown Notes
 Repositório criado durante as aulas do curso de git e github do Prof. Guanabara (Curso em Vídeo) 😄 💛
 
-## Anotações sobre Markdown
 ***
 
 ### Formatação
