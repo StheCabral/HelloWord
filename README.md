@@ -25,7 +25,7 @@ _Exemplo_
 
 * Para __*misturar*__ configurações basta usar ambos os sinais de uma vez
 
-* Para formatar um comando no texto, basta colocá-lo entre crazes ``, se for um programa usamos 3 crazes ```
+* Para formatar um comando no texto, basta colocá-lo entre crases ``, se for um programa usamos 3 crases ```
 
 Ex.: Em python podemos usar `for i in range 10` para repetir x coisa 10 vezes
 Ex.: 
